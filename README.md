@@ -1,5 +1,5 @@
 #Wavelet Universal Shrinkage
-The "universal" term means the universal threshold method proposed by D.L. Donho et al[1]. 
+The "universal" term means the universal threshold method proposed by D.L. Donoho et al[1]. 
 This project is a simple de-noise method with the help of PyWavelets package.
 ##manual
 The wavelet_universal_shrinkage function returns a denoised array with the same dimension as your input data.
